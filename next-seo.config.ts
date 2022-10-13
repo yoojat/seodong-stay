@@ -7,7 +7,7 @@ const config = {
     site_name: '서동여관-부산감성숙소',
     title: '서동여관-부산감성숙소',
     image: {
-      url: 'https://seodong-stay.vercel.app/mainPhotos/1.jpeg',
+      url: 'https://seodong-stay.vercel.app/mainPhotos/28.jpeg',
       width: 800,
       height: 600,
       alt: '서동여관',

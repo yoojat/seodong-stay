@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://seodong-movie.vercel.app/sitemap.xml
