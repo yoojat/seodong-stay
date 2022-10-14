@@ -42,7 +42,7 @@ const Footer: NextComponentType = () => {
         CREPLAY ALL RIGHT RESERVED
         <br /> 대표자 : 송병근
         <br />
-        {/* 사업자 등록 번호 : 617-86-24973 */}
+        사업자 등록 번호 : 617-86-24973
       </div>
     </ContainerFooter>
   );
