@@ -26,7 +26,7 @@ const HeadInfo = ({
       <meta property='og:site_name' content='서동여관' />
       <meta property='og:title' content={title} />
       <meta property='og:description' content={contents} />
-      <meta property='og:image' content='/mainPhotos/28.jpeg' />
+      <meta property='og:image' content='/mainPhotos/5.jpeg' />
       <meta property='og:url' content='https://seodong-movie.vercel.app/' />
       <meta property='al:ios:url' content='applinks://docs' />
       <meta property='al:ios:app_store_id' content='12345' />
