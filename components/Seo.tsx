@@ -10,7 +10,7 @@ export default function Seo({ title }: IProps) {
       {title ? (
         <title>{title} | 서동여관</title>
       ) : (
-        <title>서동여관-부산감성숙소</title>
+        <title>서동여관 필사의방</title>
       )}
     </Head>
   );
